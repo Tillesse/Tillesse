@@ -11,5 +11,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tillesse)](https://github.com/Tillesse/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tillesse&layout=compact)](https://github.com/Tillesse/github-readme-stats)
-
